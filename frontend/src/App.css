@@ -1,0 +1,40 @@
+/* Regular CSS styles */
+.my-custom-css {
+    color: #042e6f;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    text-shadow:0cqmax;
+  }
+  .BALANCE{
+    color: #042e6f;
+    font-family:  'Times New Roman', serif;
+  }
+  .USERS{
+    font-family:  'Times New Roman', serif;
+    font-size: large;
+  }
+  .done{
+   display: flex;
+   justify-content: center;
+   padding-top: 100px;
+   padding-bottom: 100px;
+   flex-direction: column;
+
+   align-items: center;
+
+  
+  }
+  .icon{
+   width:150px;
+   height: 150px;
+   
+  }
+  .successfull{
+    padding-top: 5px;
+    font-size:22px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 300;
+    color:rgb(10, 201, 3);
+    
+    
+  }
